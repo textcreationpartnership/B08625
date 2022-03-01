@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confider in falshood confounded. Being an answer to an abusive book lately published by William Wright of Dublin, against Thomas Carleton his tenant in the first place: And Will. Edmondson, John Burnyet, Abraham Fuller, and Franc. Randall, arbitrators, in the second place; equally chosen to end some difference between the said William Wright and Thomas Carleton, &amp;c.</title>
+            <author>Carleton, Tho. (Thomas)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08625</idno>
+            <idno type="OCLC"> 124064116</idno>
+            <idno type="STC">Wing C588B</idno>
+            <idno type="STC">ESTC R221232</idno>
+            <idno type="EEBO-CITATION">124064116</idno>
+            <idno type="OCLC">ocn 124064116</idno>
+            <idno type="VID">192220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192220)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2905:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confider in falshood confounded. Being an answer to an abusive book lately published by William Wright of Dublin, against Thomas Carleton his tenant in the first place: And Will. Edmondson, John Burnyet, Abraham Fuller, and Franc. Randall, arbitrators, in the second place; equally chosen to end some difference between the said William Wright and Thomas Carleton, &amp;c.</title>
+                  <author>Carleton, Tho. (Thomas)</author>
+               </titleStmt>
+               <extent>24 [i.e. 30] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>printed in the year of our Lord 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Various letters within text signed: T.C., Tho. Carleton.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carleton, Tho. --  (Thomas)</term>
+               <term>Wright, William, --  of Dublin.</term>
+               <term>Landlord and tenant --  Ireland --  Early works to 1800.</term>
+               <term>Leases --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192220:1" rendition="simple:additions"/>
+            <pb facs="tcp:192220:1"/>
+            <pb facs="tcp:192220:2" rendition="simple:additions"/>
+            <pb facs="tcp:192220:2"/>
+            <p>THE CONFIDER In FALSHOOD CONFOUNDED. Being an ANSWER to An Abuſive BOOK Lately publiſhed by <hi>William Wright</hi> of <hi>Dublin,</hi> againſt <hi>Thomas Carleton</hi> his Te<g ref="char:EOLhyphen"/>nant in the firſt place: And <hi>Will. Edmond<g ref="char:EOLhyphen"/>ſon, John Burnyet, Abraham Fuller,</hi> and <hi>Franc. Randall,</hi> Arbitrators, in the ſecond place; equally choſen to end ſome difference be<g ref="char:EOLhyphen"/>tween the ſaid <hi>William Wright</hi> and <hi>Thomas Carleton, &amp;c.</hi>
+            </p>
+            <p>Printed in the Year of our Lord 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192220:3" rendition="simple:additions"/>
+            <pb n="5" facs="tcp:192220:3"/>
+            <head>The Confider in Falshood con<g ref="char:EOLhyphen"/>founded: being an Anſwer to an abu<g ref="char:EOLhyphen"/>ſive Book lately publiſhed by <hi>William Wright</hi> of <hi>Dublin,</hi> againſt <hi>Thomas Carle<g ref="char:EOLhyphen"/>ton</hi> his Tenant, <hi>&amp;c.</hi>
+            </head>
+            <p>THE firſt thing I obſerve in his Book, is, That he would make the World believe that the Quakers deceived him; and with this news he would tingle their Ears, there<g ref="char:EOLhyphen"/>by to make his Monologies, or Book of Bables, more taking with the Reader; and the reaſon he lays down in the 9th page of his Book: he conſiders that in all reports that are ſpread abroad amongſt men, be they never ſo falſe, there are ſome that believe them, eſpecially where the party concerned ſtirs not in vindication of himſelf. Theſe and the like conſiderations moved him, as he ſaith, to do what he did.</p>
+            <p>And in the 20th page he ſaith, <hi>one mans ſtory ſeems fair and honeſt till another be heard;</hi> ſo that from his own ſaying it may be concluded, be his reports ne<g ref="char:EOLhyphen"/>ver ſo falſe, they will ſeem fair and honeſt, and be believed for truths by ſome whilſt <hi>Carleton</hi> and the Arbitrators ſay nothing for themſelves; and no doubt many ſuch his Book may meet with in the world as will be ready to give judgment before they hear both parties.</p>
+            <pb n="6" facs="tcp:192220:4"/>
+            <p>But the Quakers did not deceive him, for it was his own falſe heart, and leaning to lies for refuge, and for his great tranſgreſſion againſt God, that he was deluded and decieved, and fell into great and fore temptation: If we may believe his own report of himſelf and what he hath written with his own hand; in the firſt page of a Book he writ againſt his own Wife about 7 or 8 years before this Arbi<g ref="char:EOLhyphen"/>tration was; ſo what can we expect when he cannot conceal the infirmities of his own fleſh; but writ Books, yea black Books as he calls them, againſt his own Wife and ſpread them abroad. And to my knowledge it hath been his practice for many years to write Libels and ſcandalous ſcroles againſt divers men he hath had to do with, which he dare not publiſh in print as he does the Quakers; but like a Serpent in the dark would impeach other mens honeſty and advance his own; but ſuch black, dark Books and ſcroles muſt needs proceed out of the bottomleſs pit where all ſuch things are hatched.</p>
+            <p>But to come to my purpoſe, that is to anſwer to his high charges, and to give a little more light and underſtanding to the unbiaſſed Reader, that he may not err in judgment by believing all <hi>W. W.</hi> hath put in print; for I remember it was ſaid of old, He that is firſt in his own Cauſe ſeemeth juſt, but his neigh<g ref="char:EOLhyphen"/>bour cometh and ſercheth him out.</p>
+            <p>Page the 4th. <q>
+                  <hi>He ſaith</hi> God defend that he ſhould either wittingly or willingly write one word but what ſhall be real truth.</q>
+            </p>
+            <p>So if the Reader will take his ſerious aſſertions for truths, he may be deceived; for I am able (the
+<pb n="7" facs="tcp:192220:4"/> truth being on my ſide) to make it appear in ſeveral places of his Book, that he hath both wittingly and wilfully writ that which is not true againſt <hi>Carleton</hi> (though ſome may be apt to think <hi>W. W.</hi> is no ſuch man) for all his large pretence to the contrary; yea things that he knew was not true long before his Book was writ; but I ſee by experience men that ſtand in diſobedience and rebellion againſt Gods witneſs in themſelves, grow worſe and worſe, de<g ref="char:EOLhyphen"/>ceiving and being deceived.</p>
+            <p>Now I ſhall proceed to examine his high and falſe Charges one by one, and give my Anſwers as truly and briefly as poſſible, without tautology or need<g ref="char:EOLhyphen"/>leſs reiterations as he hath often done in his Book.</p>
+            <p>Charge 1. page 4. <q>I let to <hi>Carleton, ſaith he,</hi> 184 Acres of Land, and there being ſome odd Acres, part whereof being Turf-bog, I reſerved to my ſelf for firing for my other Tenants, and alſo for Clay for my own uſe, and that I ſhould ſell his Clay, hinder his Tennants from digging Turf, and dig Turf there my ſelf, and alſo my Tenants, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That he reſerved any odd Acres, either of Turf-bog or Clay, by any expreſs Covenant in my Leaſe, or any expreſs words in our bargain, that I abſolutely deny: It is true, there are ſeveral Ex<g ref="char:EOLhyphen"/>ceptions and Reſervations in my Leaſe, (which hitherto I have duely obſerved and kept) but not a word of any odd Acres of Land or Bog, <hi>&amp;c,</hi> ſo why ſhould that reſervation be wanting (if any part of our bargain) when the other was put in; he knows, and I know, very well, he would have excepted 4 Acres when we were about the bargain
+<pb n="8" facs="tcp:192220:5"/> at <hi>C. W.</hi> his houſe at <hi>Clahamman;</hi> and I would either have all as it was entirely fenced in (as ſaith my Leaſe) or I would have none; upon which we broke off, and paid our reckoning at the Inn; and after he was out of doors and ready to take Horſe, he turn'd in again and ſaid <hi>he would not break with me for them. I ſhould have them,</hi> and ſo granted me the whole, all within the Fences to my underſtanding, and o<g ref="char:EOLhyphen"/>thers that were by, and into the whole put me in poſſeſſion, and the whole I have enjoyed theſe five years laſt, and have nothing but my bargain, both by the bounds of my Leaſe and plain expreſs words, which <hi>J. N.</hi> can witneſs who was then ſtanding by; alſo <hi>T. A.</hi> who before treated with him upon the ſame bargain, broke off for 4 or 2 Acres of Bog ſome days or weeks before, as I was like to have done, if he had not granted them; without any further reſervation or exception: for confirmation of this take <hi>T. A.</hi> his Certificate as follows.</p>
+            <floatingText xml:lang="eng" type="certificate">
+               <body>
+                  <p>This is to certifie all whom it may concern, That I went to <hi>Ballynicargie</hi> to take it of <hi>William Wright,</hi> and he ſhewed me the ve<g ref="char:EOLhyphen"/>ry Lands that <hi>Thomas Carleton</hi> now enjoy<g ref="char:EOLhyphen"/>eth, and he and I agreed of the price, and I was to have a leaſe according to the bounds, and when he came to write Articles he would have accepted 4 or 2 Acres of Bog; upon which I left him and it, becauſe I could not
+<pb n="9" facs="tcp:192220:5"/> have it as we had agreed.</p>
+                  <closer>
+                     <dateline>Witneſs my Hand
+<date>this 17<hi>th.</hi> day of <hi>May</hi> 1684.</date>
+                     </dateline>
+                     <signed>Thomas Anſlow his mark.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And whereas he accuſes me of ſelling Clay, I ne<g ref="char:EOLhyphen"/>ver did, by poſitive Sale; only the Clerks of the Iron works gave me ſomething, what they pleaſed themſelves, in conſideration for the Clay they got: And if I had, I ſold none of his, for the Land being mine the Clay was not his.</p>
+            <p>Charge 2. page 4. <q>
+                  <hi>Carleton</hi> to ſpare his own Wood in the Year 1680, ſet his man <hi>Charles Smith</hi> to cut down and take away all the Birch Trees that grew upon a new double Ditch of <hi>Wrights: ſaith he</hi> ſome of them being a<g ref="char:EOLhyphen"/>bove 3 foot in circumference.</q> And in page 9. <q>
+                  <hi>he ſaith,</hi> They were cut out of ſeaſon for the ſtumps are dead.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That my man cut 3 or 4 Birches I ſuppoſe may be true, though ſome of them, as I underſtand, was dead, or dying before; but that the Ditch was his, that is a lye, for the double Ditch was mine, and with no little trouble have I maintained it theſe ſeveral years; for the Wood-cutters, Fellers, Stri<g ref="char:EOLhyphen"/>pers and Colliers made ſeveral ways over it to my great damage, often occaſioned my Cattel to go out: But what had Wright to do with Birches, or any o<g ref="char:EOLhyphen"/>ther Wood upon the Land during my Leaſe; he ex<g ref="char:EOLhyphen"/>cepted none but Oak, and but ſome of that too, as
+<pb n="10" facs="tcp:192220:6"/> by my Leaſe may appear: but he wanted matter to make me criminal, and to aggravate it the ſtumps are dead; ſo were hundreds more cut by him or his people before I came there, and by divers of his Te<g ref="char:EOLhyphen"/>nants ſince, who for years together I could not re<g ref="char:EOLhyphen"/>ſtrain until I ſerved one of them with a Writ, which is another Charge in his Book: one thing I shall here mind the Reader of, which was an expreſs bar<g ref="char:EOLhyphen"/>gain between him &amp; me, in behalf of <hi>William Fettrel,</hi> the man that bought the Oak Wood of him; which was that I ſhould let the ſaid <hi>W. F.</hi> have Birches to build a Bark-Mill; and he promiſed to give me as much Oak, number for number, when they were ſtrip'd. They had of Birches 96 pieces, beſides 6 or 7 pair of Couples and Knees, but to this day he never gave me one ſtick of Oak in conſideration, which is (beſides the abundance his Tennants out off for 2 or 3 years,) far more conſiderable than twice 3 or 4 in my own Hedge; but breaking word and promiſe is made a laughter with him, for when I have charged him with his promiſe he would laugh, and ſay, <hi>there is never a promiſe made, but it is either broke or kept.</hi>
+            </p>
+            <p>Charge 3. page 4 &amp; 5. <q>
+                  <hi>Carleton, ſaith he,</hi> is bound by Covenant in his Leaſe to keep all the Houſes, Walls and Ditches in good repair, which he failing to do, <hi>Wright</hi> is damnified at leaſt 30 ſhillings in his Bedding and Papers in a Cloſet he reſerved for himſelf.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That he reſerved liberty of that Cloſet to himſelf, I grant, but upon what terms, <hi>viz.</hi> when he came there about the ordering and diſpoſing of Tim<g ref="char:EOLhyphen"/>ber and Bark, moſt of which was over and diſpoſed of from him 4 years agoe, he was but to have that
+<pb n="11" facs="tcp:192220:6"/> liberty when he came upon that occaſion, and not otherwiſe: ſo if he had cleared the Room as he ought to have done when he went away, there could have been no ſuch damage to him; which as I am inform<g ref="char:EOLhyphen"/>ed is not for want of repair neither, but rather by Moth, Mice or Rats, for this is the effects of Fraud and a wrongful detainer; for he hath detained this Cloſet and two others from me and my Aſſigns ever ſince I came there, contrary to the Cove<g ref="char:EOLhyphen"/>nant of my Leaſe, for which I want ſatisfaction, for I have the great damage and wrong, though he hath made firſt complaint, <hi>&amp;c.</hi> So this is the way he re<g ref="char:EOLhyphen"/>quites me for my kindneſs and forbearance; ſo I think it is now high time for me to amend that mat<g ref="char:EOLhyphen"/>ter, and let him take his Moth-eaten-Clothes and Papers away, and pay for the time he hath detained them unjuſtly.</p>
+            <p>Charge 4. page 5. <q>That he and I went to one <hi>Pridham</hi> a Clerk, and how I would not pay one half of the Charge for ingroſſing the Leaſe in Parchment.</q>
+            </p>
+            <p>But he ſhould have ſaid himſelf would not; for I no ſooner propoſed to do it, being I was to ſtay in Town, but he quickly cloſed with it, and ſent <hi>O. W.</hi> to one <hi>Tayler</hi> a Couſin of their own for Parchment to engroſe the Leaſe; ſo I ſaved him his part of the 18 ſhillings the man demanded: I think it is very fit he ſhould now pay that would pay me ſo for my forbearance, with ſo many baſe and abuſive aggra<g ref="char:EOLhyphen"/>vating exclamations, as may be ſeen pag 5, 7, 9, 22, <hi>&amp;c.</hi> of his Book, where it is multiplied as ſo ma<g ref="char:EOLhyphen"/>ny various actions to make me the more criminal; which was, that I ſhould deceitfully, and like a diſ<g ref="char:EOLhyphen"/>honeſt man, contrary to the truſt impoſed in me,
+<pb n="12" facs="tcp:192220:7"/>
+               <q>thruſt ſeveral things into the Leaſe, that was not, <hi>ſaith he,</hi> in the Original rough draught; nor never ſpoke of, <hi>ſaith he,</hi> in making the bargain, to the beſt of his know<g ref="char:EOLhyphen"/>ledge;</q> and all theſe ſeveral things being examined, (by a judicious Reader) is but one thing nominated in all his Book, and that is this, pag 7. that I ſhould put in theſe words, <q>Save only what Oak-Timber the ſaid <hi>Tho. Carleton</hi> his Executors or Aſſignes ſhall have need of, or ſhall have occaſion to uſe or expend upon the Premi<g ref="char:EOLhyphen"/>ſes, which he or they is to have while it is there.</q> This is all, and all this is more than is true, (<hi>ergo</hi> a lie) for I thruſt it not in, it was agreed on before; for I have yet to ſhew, and that to my comfort now, in the firſt Articles of our Bargain, writ, ſigned and ſealed with his own hand, where he himſelf hath granted that Covenant of the Timber, and three Witneſſes to the ſaid Articles, <hi>viz. James <g ref="char:V">Ʋ</g>nderwood</hi> an Attorney at Law, <hi>Tho. Trafford</hi> and <hi>Will. Errat;</hi> take T. T. his Certificate.</p>
+            <floatingText xml:lang="eng" type="certificate">
+               <body>
+                  <p>Whereas <hi>Will. Wright</hi> in his Book lately printed hath charged <hi>Th. Carleton</hi> of deceit<g ref="char:EOLhyphen"/>fully thruſting in into his Leaſe that clauſe of liberty for Oak Timber, <hi>&amp;c.</hi> This is to cer<g ref="char:EOLhyphen"/>tifie the truth to all, that I was preſent when the ſaid <hi>Wright</hi> and <hi>Carleton</hi> did ſign Ar<g ref="char:EOLhyphen"/>ticles of their ſaid Bargain, and that the ſaid Articles were writ by <hi>Wright</hi>'s own hand, and that the ſaid Covenant for the
+<pb n="13" facs="tcp:192220:7"/> Timber was in it, and I was a ſubſcribing Witneſs thereunto.</p>
+                  <closer>
+                     <dateline>Given under my hand
+<date>this 2d. of the 4th. Month, vul. <hi>June</hi> 1684.</date>
+                     </dateline>
+                     <signed>Tho. Trafford.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Alſo take this Certificate following.</p>
+            <floatingText xml:lang="eng" type="certificate">
+               <body>
+                  <p>This is to certifie all whom it may concern, That we have this day ſeen Articles of Cove<g ref="char:EOLhyphen"/>nant and Bargain made the 19th. day of <hi>A<g ref="char:EOLhyphen"/>pril</hi> 1679. between <hi>W. W.</hi> and <hi>T. C.</hi> where<g ref="char:EOLhyphen"/>in he the ſaid <hi>W. W.</hi> hath granted to the ſaid <hi>T. C.</hi> what Oak-Timber he hath occaſion to uſe upon the premiſes, and he is to have it ſo long as it is there: And we are well ſa<g ref="char:EOLhyphen"/>tisfied the ſaid Articles are writ, ſigned, and for ought we know ſealed too with <hi>W. W.</hi> his own hand.</p>
+                  <closer>
+                     <dateline>Given under our hands
+<date>the 23d. of <hi>May</hi> 1684.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>Thomas King</item>
+                           <item>Michael Holme.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And further I am perſuaded that this Covenant is in one of the rough draughts ſtill, if it could be ſeen; <hi>but,</hi> ſaith he, <hi>not in the Original;</hi> and thus he would delude the World to make <hi>Carleton</hi> odeous: Which he calls the Original is the queſtion? for there were
+<pb n="14" facs="tcp:192220:8"/> three rough draughts; one was corrected by my hand, which was the laſt of the three; ſo let all the World judge what honeſty appears in this allegation, and whether this is not wittingly and wilfully done. And if he were not a vexatious and letigious man, he would have been aſhamed to have ſhown his fol<g ref="char:EOLhyphen"/>ly and deceit ſo far, as to ſhuffle from the covenant of a Deed under hand and ſeal to a rough draught of his own ſubtil deviſing. Does People uſe to make void a compleat and perfect Leaſe, five years after it is made, by the abrupt and crooked lines of a rough draught, ſure the man is hard put to it, that nothing ſhort of Printing could ſerve to make himſef and his actions rediculous to the world, and that which is worſt of all, muſt ſpread his own infamy in City and Country, with his own hand. And further, when Covenants under hand and ſeal are thus wil<g ref="char:EOLhyphen"/>fully wreſted, by making wilful lies, what uſage may I expect in other things? let all the World judg.</p>
+            <p>Charge 5. page 5. <q>
+                  <hi>Carleton, ſaith he,</hi> made Spars to his Fulling-Mill, all of fine ſtreight young Oak Saplings, from which <hi>Wright</hi> himſelf was prohibited by <hi>Henry Temple, Eſq;</hi> and beſides, <hi>ſaith he,</hi> he loſt the bark.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> A pack of lies who e're invented them; he is the man that now hath printed them. By his words he had nothing to do with the Tim<g ref="char:EOLhyphen"/>ber, and conſequently nothing to do with the Bark; ſo what is this to him, the Treſpaſs (if any were) were againſt <hi>H. T.</hi> Eſq; only he would make his wil<g ref="char:EOLhyphen"/>ful lies manifeſt by his own ſcribling hand, and ſhow his wicked malice againſt me; for there is not one Oak-Spar in all the Mill-houſe that we built the firſt year before he ſold the Timber, (which is the houſe
+<pb n="15" facs="tcp:192220:8"/> he means) as by this following Certificate may ap<g ref="char:EOLhyphen"/>pear.</p>
+            <floatingText xml:lang="eng" type="certificate">
+               <body>
+                  <p>This we certifie that there is not one Oak Spar in all the Tuck-Mill houſe that <hi>Tho. Carleton</hi> built upon the Lands of <hi>Ballynicar<g ref="char:EOLhyphen"/>gie</hi> the firſt year he came there; and though <hi>W. Wright</hi> ſays they were all fine, ſtraight, young Oak Saplings, there is not one, and we are ſure the houſe was never ſtripp'd, nor a Spar altered, ſince it was firſt ſet up.</p>
+                  <closer>
+                     <dateline>Given under our hands
+<date>this 23d. of <hi>May</hi> 1684.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>Edmond E. Chadwick.</item>
+                           <item>Simeon Bins</item>
+                           <item>Nicholas Richardſon.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Charge 6. is about a Dunghil, (which had they been right placed ſhould have contained all his 12. or 21 before they went to the Preſs) <hi>which,</hi> ſaith he, <hi>he preſerved to himſelf;</hi> neither by Word or Writing, ſay I; (this is ſome of his ſubtil mental reſerves) for he can ſcarce make any Bargain without ſome hid<g ref="char:EOLhyphen"/>den underhand reſerve, reach or other. As for the Dunghil, he a great while after begun to ſay <hi>he would have one of them;</hi> I ſaid I thought it was fit it ſhould ſtay upon the premiſes; for the other Land was ſet to Leaſe, and ſo was that it laid upon, and this was all the hindrance I made: I put no
+<pb n="16" facs="tcp:192220:9"/> body off from the work, nor ſee no body about to take it away; neither did I convert it all to my own uſe, as he ſaith, for I left a great deal of it there when I removed to the other ſide of the Land: however a ſtory of a Dunghil will ſerve to fill a Book.</p>
+            <p>Charge 7. <q>Yate Bars, and other materials, with Boards of divers ſorts, and Wain Axletrees, left in <hi>Carletons</hi> cuſtody, were by him, his Servants or Workmen waſted, deſtroyed, and made a<g ref="char:EOLhyphen"/>way, and how he ſuffered his Carpenter to cut ſome of the ſeaſoned Axletrees, and made Helves of it for Axes, Augures and Chiſſels; Yate Bars and Boards were diſpoſed of for ſeveral uſes for the ſaid <hi>Carleton,</hi> ſome whereof <hi>Wright</hi> ſaw cut to repair a pailed Fence, which <hi>Carleton</hi> or ſome of his family had either burnt or careleſly loſt for want of a Pin, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In this Charge is couched ſeveral Lies or ſubtil Aſſertions; one Yate Bar and two Boards I made uſe of in the Parlor Chimney to break the wind off the Fire when my Wife was ſick, and this by him or his Wife is reputed little leſs then fellony, though I have often profered either to pay or return them; and all my Servants, People or Workmen that he can inſtance in his ſubtil and large Charge, is only a Carpenter that cut a piece of a ſlit Aſh for Chiſſel Helves, neither for Ax nor Au<g ref="char:EOLhyphen"/>gur that I know of; nor was it a ſeaſoned Axle<g ref="char:EOLhyphen"/>tree, as he ſaith, only a ſlit Aſh ſeaſoned without door under the drop of a Houſe Eves, where for ought I know it and its fellows ſtood till ſome of them were rotten. And as for the Gate Bars and
+<pb n="17" facs="tcp:192220:9"/> Boards he ſaw cut to repair a pailed Fence, which <hi>Carleton</hi> or his family (why not ſome, or no bo<g ref="char:EOLhyphen"/>dy) had either burnt or loſt, <hi>&amp;c.</hi> This is another of his witting and wilful lies, for he knew in his Conſcience this was a Lie; for the man that prepared the pailed Fence, did confeſs it to him before my face in <hi>Jo. Newbies</hi> houſe in <hi>Dublin,</hi> that he did it when the Arbitration was; and he knew long before, that moſt of this Charge, and ſeveral others, was falſe, and wilfully (contrary to his own knowledge) laid againſt me; for the parties he knew that had confeſſed to him ſome years before, that they did thoſe things unknown to me, and for their own private concernes, and not mine; and ſtill he wilfully and wicked<g ref="char:EOLhyphen"/>ly lays them to my charge; and what had I to do to drive a Pin in dry weather; it was another mans Fence; another man let it fall down, and another man made it up; and this he knew well enough; but who is ſo wicked as them that pre<g ref="char:EOLhyphen"/>ſumptuouſly ſins againſt their own knowledge, as this man in many things hath done, which I am able to prove by more teſtimonies than my own? yet who is ſo oily and ſmooth to ſtrangers as <hi>Will. Wright?</hi>
+            </p>
+            <p>Charge 8. Is about Twenty ſhillings miſtake in Accounts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Upon the ballancing of Accounts in <hi>Thomas-ſtreet,</hi> as he ſaith, there I anſwered all he could charge (and more then I thought was due) and he was then, and is yet, Four ſhillings in my debt; and after, he comes over again with this, I have bid him oft make it appear juſt and due
+<pb n="18" facs="tcp:192220:10"/> and I would pay it him, though I know it was ſeen in his Pocket-book put down with his own hand, that I paid it once to his own Ditchers, and that one would think was often enough.</p>
+            <p>But in ſhort, let him produce ſuch Papers and Bonds which he long ſince took away from me, whereby all thoſe Accounts may be examined, and this ſhall be rectified, for I have no reaſon to pay it twice.</p>
+            <p>Charge 9. Is about ſerving a Writ upon one of his Tenants for a Bundle of Wattles, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is another lie; for I gave the man leave to get Wattles; in his Charge to the Arbi<g ref="char:EOLhyphen"/>trators he calls them Two penny worth, here he ſaith a Bundle; I believe it was ſeveral Bundles, for it was as many as wattled two Chimnies; for that I did not ſerve the Writ, but for Injuries, Treſpaſſes, ſome juſt Debts and other abuſes I ſerved a Writ upon him and ſome others which I never repented to this day; and I never ſerved another, neither was I ever ſerved with any upon my own account (ſave once for Tithes) in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> nor <hi>Ireland</hi> in all my life; and I have dealt and exchanged ſeveral hundreds of Pounds be<g ref="char:EOLhyphen"/>fore I dealt with him, <hi>ergo</hi> not ſo much given to vexatious Suits as himſelf; ſo if ſerving a Writ be any error or ſin, I believe his Conſcience is far more defiled with that ſin than mine is; witneſs his many letigious Suits for many years in moſt of the Courts in <hi>Dublin.</hi> Then he tells a tale of Nuts; I never had a Nut upon any ſuch account: but I think, as himſelf ſaith in his Book
+<pb n="19" facs="tcp:192220:10"/> concerning the Arbitrators, he is drunk, but no with Wine.</p>
+            <p>Charge 10. Is but the 4th over again to make them numerous, and fill a Book, or elſe the man forgot himſelf.</p>
+            <p>Charge 11. <q>
+                  <hi>Thomas Carleton</hi> ſaid to <hi>James Eu<g ref="char:EOLhyphen"/>ſtace</hi> one of <hi>Wrights</hi> Tenants, that his Landlord would ſerve him as he ſerved ſixteen poor men in the County of <hi>Catherlough,</hi> who were in<g ref="char:EOLhyphen"/>dicted upon <hi>Wrights</hi> account, and he let them all go to Priſon, and never regarded them, but they were glad to ſhift for themſelves, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is an abſolute Forgery as it is laid down; for I never heard of ſo many being in<g ref="char:EOLhyphen"/>indicted, nor of any one of them going to Pri<g ref="char:EOLhyphen"/>ſon; what I had was from <hi>William Wright</hi> his own mouth in <hi>Carloe</hi> ſtreets, I believe he told me then of nine, I am certain I never ſpoke of their going to Priſon, neither of ſo many being indicted. I ſometimes tell what I hear, but ne<g ref="char:EOLhyphen"/>ver what I hear not, nor know not; I remem<g ref="char:EOLhyphen"/>ber I told <hi>Euſtace</hi> (who then came as he ſaid by <hi>W. Wrights</hi> order to dig Turf upon my Land, and he came to my bed ſide where I was lying lame to tell me what he intended to do,) ſo I charged him not to do it without my leave, for he had no Land there; I told him there were ſeveral poor men indicted upon his account at <hi>Carloe,</hi> and I bid him not be ſo confident, for if I ſhould indict him for it, it might be he would not bear him out, but leave him to ſnift for himſelf; and upon this he forged that ſtory againſt me;
+<pb n="20" facs="tcp:192220:11"/> and this is the ſum of all the Reproaches, Scan<g ref="char:EOLhyphen"/>dals and Lies with which he hath ſo often ſtuffed the leaves and lines of his Book, which he ſeems to lay down as the firſt motive of all our diffe<g ref="char:EOLhyphen"/>rences; ſo now let the Reader judge. But I I know there was another thing was the occa<g ref="char:EOLhyphen"/>ſion of all, which had I anſwered, all theſe things had never been alledged, nor the world never heard ſo much of our difference; and that was my refuſing to turn Tenant to his Son <hi>Ebenezer,</hi> who came with a Deed of Gift from his Father, in which Deed of Gift he mentioned all the con<g ref="char:EOLhyphen"/>veyances of the Reverſions of that Leaſe by which he holds <hi>Ballinicargie,</hi> and by which he ſets it to me; I ſay he makes a recital of all to himſelf, but makes no mention of me or any other Tenant upon the Land, neither binds his Son to perform any Covenant of his to the pre<g ref="char:EOLhyphen"/>ſent Tenants, and after reſerves power to him<g ref="char:EOLhyphen"/>ſelf to revoke or diſanul the ſame Deed of Gift at any time hereafter by giving his ſaid Son a Twenty ſhilling piece of Gold; which had I done, and once altered my property, I ſuppoſe I might then have been Tenant at will, and re<g ref="char:EOLhyphen"/>pented at my leiſure: ſo becauſe I would not be taken in this ſnare have produced all theſe occa<g ref="char:EOLhyphen"/>ſions; and ſince that, in a Letter I have yet to ſhow under his own hand, he ſaith he made it his buſineſs both in City and Country to inform himſelf what I had ſaid againſt him; ſo that it ſeems he wanted occaſion till then. So now let the world judge what uſage I have had, or am like to have.</p>
+            <pb n="21" facs="tcp:192220:11"/>
+            <p>Charge 12. <q>But to aggravate his reflecting malice againſt <hi>Wright, ſaith he,</hi> he ſaid to <hi>Tho<g ref="char:EOLhyphen"/>mas Booth</hi> that his Landlord would ſerve him as he ſerved <hi>Francis Thornhill,</hi> to whom, <hi>ſaith he, Wright</hi> never did the laſt injury to the value of a farthing.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whether I might ſay any ſuch thing to <hi>Booth</hi> I do not well remember. I examined <hi>Booth</hi> and he denied once or twice that he told him a<g ref="char:EOLhyphen"/>ny ſuch thing, but ſince I perceive he does ſay it; but in ſhort <hi>Francis Thornhill</hi> complains loud enough of the wrongs he had by him, which I ſhall not now argue: but to ſtrengthen his Plea againſt me he went to <hi>Francis Thornhill</hi> to get ſomething under his hand to clear him, who told him he had rather his Hand was cut off then ever it ſhould do ſuch a thing, This I had ſince from <hi>Francis Thornhill</hi> his own mouth.</p>
+            <p>In page 9. he demands ſatisfaction for adviſ<g ref="char:EOLhyphen"/>ing <hi>Thomas Booth</hi> to dig Turf in his Meadow; there is but a Ditch between it and my Bog, and though it was once laid up for Meadow, it was ſo bad that it is now turned to paſture again as mine is, and for ought I know was as good Bog and as fit for Turf as mine is.</p>
+            <p>And further he ſaith, I ſaid this to aggravate my reflecting malice againſt <hi>Wright, &amp;c.</hi>
+            </p>
+            <p>What I ſaid to <hi>Booth</hi> (if ever I ſaid it) was long before, for ought I know a year or years before I hindred <hi>Euſtace</hi> to dig Turf; but if I ſhould reckon what provocations and aggravations he
+<pb n="22" facs="tcp:192220:12"/> hath given me, of far greater moment then this, I might make large Volumes; whether it was not malice in him to keep all theſe things in ſtore, and read them amongſt his familiars over his Cups in an Ale-houſe.</p>
+            <p>In page 8. he ſaith <q>He hath put down but about half, and what he hath put down is all true:</q> So here the World has his word for it, believe it that will; when any one has tried him ſo far as I, then they will know better what to believe.</p>
+            <p>Further, <q>He ſaith he hath left out nine or ten for brevity ſake:</q> But rather for want of being true, ſay I.</p>
+            <p>Page 9 and 10. He makes a repitition of 8 or 9 of them over again; only I ſuppoſe either to make his Book or my Crime bigger.</p>
+            <p>Next thing I take notice of is page 17. <q>where, <hi>he ſaith,</hi> he had ſet one hundred forty Acres of <hi>Ballynicargie</hi> to <hi>Stephen Racks</hi> and <hi>Robert James</hi> ſeven years before ever <hi>Carleton</hi> was concern<g ref="char:EOLhyphen"/>ed, which, <hi>ſaith he,</hi> if I had let to <hi>Carleton</hi> were to bring an old houſe over my head, and I were a fool and a mad man.</q>
+            </p>
+            <p>Who would think ſuch a man that is ſo ſerious, and ſtands ſo much upon his reputation, and pro<g ref="char:EOLhyphen"/>feſſes ſo much honeſty, truth, and juſt dealing in words, could be contradicted.</p>
+            <pb n="23" facs="tcp:192220:12"/>
+            <p>For ſuch a Fool &amp; a Madman is <hi>William Wright,</hi> for all his vapor of ſeeming honeſty, that he ſet forty Acres of that ſame one hundred forty to <hi>Thomas Trafford</hi> but one year before <hi>Carleton</hi> was concerned with all that <hi>Carleton</hi> now holds, took his earneſt, drew Articles, hath his earneſt yet, but to this day would never perform his Bargain. See what honeſty is here; Is not this to bring an old houſe over his head? ſo now ſee the impudence of the man. For further ſatisfa<g ref="char:EOLhyphen"/>ction take <hi>Thomas Traffords</hi> Certificate.</p>
+            <floatingText xml:lang="eng" type="certificate">
+               <body>
+                  <p>I do hereby certifie that <hi>William Wright</hi> did ſet to me in the Year 1678. all the Lands of <hi>Ballynicargie</hi> that <hi>Thomas Carleton</hi> now holds, and 40 Acres more which he hath ſince ſet to <hi>Stephen Racks</hi> and <hi>Robert James;</hi> I drew an Article of our bargain, and I was to have a Leaſe accordingly for a conſiderable number of years, and was to pay Thirty five Pounds <hi>per Annum,</hi> but to this day I could not have my bargain, (which I can make ap<g ref="char:EOLhyphen"/>pear was worth one hundred Pounds) but hath ſhuffled me off from time to time, in hopes to make more of it. And I can tru<g ref="char:EOLhyphen"/>ly ſay it was not my ſeeking, but he and
+<pb n="24" facs="tcp:192220:13"/> his Wife did often urge it upon me; if this be honeſt dealing let the impartial Reader judge.</p>
+                  <closer>
+                     <dateline>Given under my Hand
+<date>the ſecond of the 4th. Month called <hi>June,</hi> 1684.</date>
+                     </dateline>
+                     <signed>Tho. Trafford.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And again <hi>Thomas Anſloe</hi> who here before hath certified, did treat with him about them forty Acres, and ſo did <hi>Carleton</hi> himſelf; that very time that <hi>Carleton</hi> and he bargained, and the Leaſe to theſe two men was but made after <hi>Carleton</hi> came there, for he had the peruſal of it before it was ſealed; ſo if he had ſet them ſe<g ref="char:EOLhyphen"/>ven years before (which he knows is not true) as he hath lately confeſſed; then ſuch a Fool and a Madman was he as ſet them over again to one, and treat about them with two more that very Spring <hi>Carleton</hi> was concerned: So his eaſieſt and ſafeſt way to come off, is honeſtly to con<g ref="char:EOLhyphen"/>feſs he hath wittingly and wilfully printed a lie.</p>
+            <p>But, and if he had ſet this Land twice, it was but as he did about the Timber, and when I pleaded the Covenant of my Leaſe, then he for<g ref="char:EOLhyphen"/>ged that Lie, that I deceitfully put it in; and having forged it, muſt perſiſt to maintain and publiſh it in print; and this ſnare of the Devil he is fallen into.</p>
+            <pb n="25" facs="tcp:192220:13"/>
+            <p>Page 22. He ſays <q>I never did ſo much as de<g ref="char:EOLhyphen"/>mand a ſtick of Timber, to the beſt of his re<g ref="char:EOLhyphen"/>membrance.</q> And yet in page 23 he half grants it; however, I do affirm I did do it, and can bring witneſs of it if need be, (which is more than I was bound to do by Covenant) I asked him for Timber to repair the old Manſion-Houſe; he bid me let it go down: I deſired him give me ſomething under his Hand to keep me undamnified, upon which he turned away from me as his manner is.</p>
+            <p>Page 26. He ſaith, <q>the Arbitrators were par<g ref="char:EOLhyphen"/>tial, and awarded for <hi>Carleton,</hi> and againſt him, whoſe charge, <hi>ſaith he,</hi> againſt your Brother <hi>Carleton</hi> was every word true.</q> See how poſi<g ref="char:EOLhyphen"/>tive the man is in his own commendation; I grant it might ſeem ſo till <hi>Carleton</hi> was heard, for he knows how to ſet a ſmooth face upon a bad matter: But the truth of his twelve Charges I now recommend to every impartial Reader to judge of. And if theſe twelve, of his head choice, or rather ill choice where there is no better, be ſo falſe and frivolous, what can any one ſuppoſe his other nine or ten may be which he forbears to mention, I ſuppoſe from a conſciouſneſs in himſelf of their falſhood and impertinency.</p>
+            <p>Page 30. He ſaith <q>Covetouſneſs would not ſuffer <hi>Carleton</hi> to be content.</q> He ſhould have taken that to himſelf; for <hi>Carleton</hi> was content well enough if he could have enjoyed that which he paid honeſtly for, and paid before hand too, and can make it appear, (if it were not for being tedious both to my ſelf and the Reader) for I con<g ref="char:EOLhyphen"/>feſs
+<pb n="26" facs="tcp:192220:14"/> this kind of work is not pleaſant, but that I am engaged in my own and the Truths defence to take away thoſe blots and ſtains he by his book of lies &amp; bables would beſpatter me &amp; my Princi<g ref="char:EOLhyphen"/>ples with before the World; but for that, and for giving ſatisfaction to divers who waits to ſee what I will ſay for my ſelf before they conclude me guilty of all. I could have ſat ſilent, with a quiet and clear Conſcience, notwithſtanding all he hath done, and could have left Judgment and Vengeance to the Lord, who will one day give true judgment between him and me. I ſay I can make appear how he hath endeavoured (af<g ref="char:EOLhyphen"/>ter he hath got my mony) to deminiſh my bar<g ref="char:EOLhyphen"/>gain every year ſince I came there; ſo it is cove<g ref="char:EOLhyphen"/>touſneſs in him will not let me enjoy ſeveral par<g ref="char:EOLhyphen"/>ticular things which I bargained for (though he was paid for five years before hand) which I am able to prove. It is covetouſneſs in him will not let him keep his Word, Bond, or Bill of Arbitra<g ref="char:EOLhyphen"/>ment under Hand &amp; Seal to ſtand to the judgment of four men, of whom he in a manner begged that ſervice, both by words and a Letter yet to be ſeen. When I and <hi>John Burnyet</hi> did often de<g ref="char:EOLhyphen"/>ſire him to take men of other Judgments; and when they have not anſwered his covetous, will, then aſperſe and abuſe them at this rate, ſo far as either Tongue, Pen or Print can go: So I would have all warned how they arbitrate for him leaſt they come under the ſame doom.</p>
+            <p>And further, for all this great complaint he caſts upon them, as being no Chriſtians, but de<g ref="char:EOLhyphen"/>luded, and men led with a ſpirit of deluſion, worſe then Turks, Jews or Infidels, and ſaith they
+<pb n="27" facs="tcp:192220:14"/> wanted nothing but <hi>Canibals</hi> teeth to have eaten him up, <hi>&amp;c.</hi> and all this from varying very little from his own counſel and advice, as may be ſeen in his Letter, page the 13th. which rightly conſidered by judicial and impartial Readers, doth conſound and make void a great part of his own Book, and of his large complaints, both againſt them and <hi>Carleton;</hi> for by their Award they anſwered his own mind and deſire in every thing ſave two.</p>
+            <p>The firſt, they orderered two Surveyors to be equally choſen, and what Acres they do find over and above 184 <hi>Carleton</hi> was to pay proportionable as he doth for the reſt; and <hi>Wright</hi> would have it quite off from <hi>Carleton,</hi> not allowing him it for payment.</p>
+            <p>The ſecond thing was, that <hi>Wright</hi> muſt pay both the Surveyors. This is all they have varied from his own counſel and advice; and yet ſee how he exclaims and renders them.</p>
+            <p>Can it be paralleled for many Generations, that a man out of meer malice and envy, for ſuch trivial impertinent occaſions ſhould traduce men (that even three days before he pitched upon for honeſty and fidelity, and as he grants could have put his life in their hands; but ſure if they had cauſed one finger to bleed he would ſoon have changed his note;) ſhould I ſay traduce men ſo hatefully to the World? So we may ſee what ſome mens fair tongues and profeſſion is worth; and though he ſay they gave more heed to <hi>Carletons</hi> lies (and yet cannot prove he told
+<pb n="28" facs="tcp:192220:15"/> them one) then to his juſt and true Complaints, whereas indeed they gave heed to his own coun<g ref="char:EOLhyphen"/>ſel in his own Letter, which was, that if <hi>Carleton</hi> would wave his Complaints he would wave his, as is to be ſeen page 13. of his Book. And if they had been Men that would have been biaſſed and led by the Noſe either by him or <hi>Carleton:</hi> they were not fit for Arbitrators, but ſuch as he that (will have their own will or nothing) ſhould take ſome baſe Sons of <hi>Belial,</hi> and no honeſt up<g ref="char:EOLhyphen"/>right men for Arbitrators; for I remember he told the Meſſengers that delivered the Award up<g ref="char:EOLhyphen"/>on the firſt ſight that he would ſpend one hun<g ref="char:EOLhyphen"/>dred Pounds upon <hi>Carleton,</hi> but he would have it as he would have it.</p>
+            <p>Alſo further at <hi>Wicklow</hi> Seſſions about the be<g ref="char:EOLhyphen"/>ginning of <hi>October</hi> laſt <hi>Thomas Trafford,</hi> and he and I diſcourſing of our differencs at the Seſſi<g ref="char:EOLhyphen"/>ons Houſe door before divers of the Country, I then and there proffered him whatſoever diffe<g ref="char:EOLhyphen"/>rences were between us I was willing to abide of any two Juſtices upon the Bench; his anſwer was, he would abide the Judgment of never a Ju<g ref="char:EOLhyphen"/>ſtice in the Country.</p>
+            <p>But now take <hi>Wrights</hi> reſolution or concluſi<g ref="char:EOLhyphen"/>on, or to ſpeak his own phraſe, his pretty Rhime and Reaſon, which is worth the noting, <hi>viz.</hi> if <hi>Carleton</hi> had continued to have been ſo kind as he was the firſt two or three years, <hi>viz.</hi> made him welcome to Meat and Drink ſeveral Weeks at a time, and ſeveral times in a year which is againſt my diſpoſition (both in truth and nature) to mention or upbraid him with, but that he
+<pb n="29" facs="tcp:192220:15"/> ſeems to boaſt how well he hath ſatisfied me, it may be he would not have printed this ſcandalous Book, <hi>&amp;c.</hi>
+            </p>
+            <p>But this the Reader may note in his Book, or I ſhall note it for him, that during that two or three years kindneſs he even then gathered up theſe impertinent crimes againſt me, and kept them to this uſe, either in a dirty Heart or Cloſet, and never had that moral civility to acquaint me in the leaſt with many of them until he brought them before the Arbitrators; and yet he elſe<g ref="char:EOLhyphen"/>where ſays he thinks he ſatisfied me: If this be his good ſatisfaction and gratifying kindneſſes re<g ref="char:EOLhyphen"/>ceived I have enough and am over paid; this I ac<g ref="char:EOLhyphen"/>knowledge to the whole world, other ſatisfaction I had none, ſave one Barrel of Rye that I re<g ref="char:EOLhyphen"/>member.</p>
+            <p>Laſtly what I have here writ and committed to print, is but to anſwer his high and falſe charg<g ref="char:EOLhyphen"/>es, and to take off thoſe loud and large exclama<g ref="char:EOLhyphen"/>tions and complaints, or rather bundle of lies, whereby he deſigns to render me and my Prin<g ref="char:EOLhyphen"/>ciples odious to the World, and thereby gratifie his wilful and malicious humour; but I ſee the Lord hath blaſted it already, before I put pen to paper. Wiſe men, and men of underſtanding of ſeveral profeſſions and ranks ſees through it and beyond it, and doth very much condemn the mans conceited folly, thinking he had been wiſer then to have committed ſuch a bundle of bables to print. However, for ſatisfying of weaker capacities who may not have ſo deep inſpection into things of that nature, but may
+<pb n="24" facs="tcp:192220:16"/> conclude, all muſt be true, becauſe he hath aſ<g ref="char:EOLhyphen"/>ſerted it in print: I ſay, as for clearing my inno<g ref="char:EOLhyphen"/>cency both as to perſon and principles, I have done what here I have done. And notwithſtand<g ref="char:EOLhyphen"/>ing all the provocation he hath given me, ſhall not yet (as he hath done) commit to print the ma<g ref="char:EOLhyphen"/>ny injuries and wrongs I have received from him for theſe 5 years laſt paſt, which had I known the mans temper ſo well before as I do now, I ſhould never have concerned my ſelf ſo much with him; for even in the time of my greateſt kind<g ref="char:EOLhyphen"/>neſs to him (as he himſelf hath confeſt) when he ſat very kind and familiar at my Table, and by my fire ſide, yet even then did he gather and pick up, or otherwiſe forge theſe impertinent crimes againſt me for want of weightier matters; ſo that the world may ſee the hollowneſs of the man; ſo that from my heart I have reaſon to thank God I have ſo well eſcaped his ſnares, (for <hi>anguis ſub her<g ref="char:EOLhyphen"/>ba latet.</hi>) And from ſuch I deſire the Lord my God may ever preſerve me, that they that waits for, and ſeeks occaſion as he hath done, may be diſappointed.</p>
+            <closer>
+               <signed>Thomas Carleton.</signed>
+               <dateline>Written at <hi>Ballynicargie</hi> 
+                  <date>the 4th. <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Month, vulgarly <hi>June,</hi> 1684.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:192220:16"/>
+            <pb facs="tcp:192220:17"/>
+            <pb facs="tcp:192220:17" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
